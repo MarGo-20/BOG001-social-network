@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Social Network</title>
+  <link rel="stylesheet" href="./Styles/home.css"/>
+  <link rel="stylesheet" href="./Styles/headerHome.css"/>
+  <link rel="stylesheet" href="./Styles/publications.css">
+  <link rel="stylesheet" href="./Styles/createpublications.css">
+  <link rel="stylesheet" href="./Styles/headerViews.css">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" 
+  integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"/>
+
+</head>
+<body>
+  <div id="root"></div>
+  
+  
+  <!-- FIREBASE SCRIPTS-->
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.18.0/firebase-app.js"></script>
+  
+<!-- TODO: Add SDKs for Firebase products that you want to use
+  https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.18.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.18.0/firebase-firestore.js"></script>
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyAUiUROysOh-iWBhnvYjFJn6qI422YXBVk",
+      authDomain: "social-network-11.firebaseapp.com",
+      databaseURL: "https://social-network-11.firebaseio.com",
+      projectId: "social-network-11",
+      storageBucket: "social-network-11.appspot.com",
+      messagingSenderId: "154111845943",
+      appId: "1:154111845943:web:738e8a1901d3d971f141b2",
+      measurementId: "G-4WGVYGSJG8"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+     const auth = firebase.auth();
+     const fs = firebase.firestore();
+  </script>
+  <script type="module" src="./FunctionRouter/main.js"></script>
+  <script type="module" src="./functionsFirebase.js"></script>
+  <script type="module" src="./Views/footer.js"></script>
+  <script type="module" src="./Views/headerViews.js"></script>
+</body>
+</html>

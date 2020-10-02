@@ -1,0 +1,135 @@
+
+.navPages {
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navPages li a {
+    text-decoration: none;
+    color: aliceblue
+}
+/*Estilos publicaciones*/
+.mainBackgroundContainer{
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    background-image: url(../imagenes/fondoMontaña.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 700px;
+    width: 100%;
+}
+#post-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 90vw;
+    justify-content: space-around;
+    padding-top: 5% ;
+    padding-bottom: 5% ; 
+}
+.containerPostFinal{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    /*height: 350px;*/
+    margin-bottom: 5%;
+    /*margin-right: 5%;*/
+    background: #79CDB2;
+    box-shadow: 10px 10px 4px rgba(64, 107, 94, 0.87);
+}
+.userContainer{
+    padding-top: 10px;
+}
+.containerCommentary{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: /*350px; */80%;
+    height: 250px;
+    background-color: white;
+    margin-top: 2%;
+    margin-bottom:2%;
+}
+
+#commentaryP{
+    margin: 2%;
+    width: /*350px; */80%;
+    height: 150px;
+}
+
+.likeDown{
+    width: 40px;
+    color:white;
+}
+
+.likeUp{
+    width: 40px;
+    color: green;
+}
+.myBtnPost{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.containerButton2{
+    padding-bottom: 15px;
+}
+
+@media(max-width:1400px){
+    .containerPostFinal{
+        font-size: 15px;
+        width: 35%;
+    }
+    .containerCommentary{
+        height: 250px;  
+    }
+}
+@media(max-width:1140px){
+    #post-container{
+        flex-direction: column;
+        align-items:  center;
+    }
+    .containerPostFinal{
+        font-size: 15px;
+        width: 65%;
+    }
+
+}
+
+@media(max-width:1000px){
+
+    .containerPostFinal{
+        font-size: 15px;
+    }
+    .containerCommentary{
+        height: 250px;  
+    }
+}
+
+@media(max-width:700px){
+    .containerPostFinal{
+        font-size: 14px;
+       /* width: 60%;*/
+    }
+}
+
+@media (max-width:500px){
+
+    .containerPostFinal{
+        width: 80%;
+    }
+    .containerCommentary{
+        width: 90%; 
+        height: 200px;
+    }
+
+}
+
+
+

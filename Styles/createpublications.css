@@ -1,0 +1,48 @@
+
+.mainBackground{
+    display: flex;
+    flex-direction: column;
+    align-items:  center;
+    height: 100vh;
+    background-image: url(../imagenes/fondoMontaña.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 700px;
+    width: 100%;
+}
+.userIcon{
+    width: 30px;
+    height: 30px;
+}
+.bigContainer{
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+    padding-top: 5% ;
+    padding-bottom: 5% ; 
+    /*height: 540px;*/
+}
+.containerPost{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    height: 220px;
+    background: #79CDB2;
+    box-shadow: 10px 10px 4px rgba(64, 107, 94, 0.87);
+    margin: auto;
+}
+.containerUser{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    
+}
+.containerButton2{
+    display: flex;
+    justify-content: center;
+    height: 30px;  
+    padding-top: 20px;  
+};
+

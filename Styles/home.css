@@ -1,0 +1,269 @@
+*{  
+    margin: 0;
+    padding: 0;  
+    font-family: 'Raleway', sans-serif;
+}
+.homePage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100vw;
+    height: 80vh;
+    font-size: 16px;
+    padding-bottom: 2%;
+}
+#containerImage{
+    position: relative; 
+    background: url(../imagenes/glamping-background.jpg);
+    background-size: cover;
+    width: 79%;
+    height: 100%;
+}
+#textKallpa{
+    position: absolute;
+    top: 6%;
+    left: 30%;
+    width: 65%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    background:rgba(255, 255, 255, 0.438);
+    color: rgb(5, 41, 21);
+    font-weight: bold;
+}
+.containerLogIn{
+    display: flex;  
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 18%;
+    height: 85%;
+    margin-top: 1.6%;
+    margin-right: 2% ;
+    background: #79CDB2;
+    box-shadow: 10px 10px 4px rgba(64, 107, 94, 0.87);
+}
+.containerForm{
+    width: 70%;
+    margin-bottom: 15px;
+}
+.formHome{
+    display: flex;
+    flex-flow: column wrap; 
+    width: 100%;    
+}
+#containerLogUp{
+    display: flex;
+    justify-content: center;
+    display: none;
+    padding-top: 3%;
+    box-sizing: border-box;
+}
+.containerFormLogUp{
+    margin-top: 15%;
+    margin-bottom: 20px; 
+    width: 70%;
+}
+.label{
+    padding-bottom: 35px;
+    width: 100%;
+}
+input{
+    width: 100%;
+    height: 30px;
+}
+.spanForm{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 21px;  
+    font-weight: bold; 
+    width: 100%;
+    height: 5%;
+}
+#spanLogUp{
+    margin-top: 0;
+    
+    
+}
+.link{
+    display: flex;
+    justify-content: center;
+    padding-top:8%;
+    
+}
+.containerButton{
+    display: flex;
+    justify-content: start;
+    /*margin-left: 28px ;*/
+    height: 30px;    
+}
+.button{
+    width: 80px;
+    height: 30px;
+    color: aliceblue;
+    background: #000000;
+    border-radius: 20px;
+}
+#alreadyRegistry{
+    margin-left: 10%;
+    padding-bottom: 3%;
+}
+#dont-registry{
+    margin-left: 10%;
+    padding-bottom: 3%;
+}
+h2{
+    margin-top: 170px;
+    margin-left: 10px;
+    width: 250px;
+    font-size: 22px;
+}
+.contentFooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    height: 70px;
+    width: 100%;  
+}
+footer{    
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.logoFooter{
+    width: 35px;
+    height: 30px;
+    margin-right: 20px;
+}
+.logoFooter >img {
+    width: 35px;
+    height: 30px;
+}
+.copyright{
+    color: blanchedalmond;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+
+@media(max-width:1500px){
+    #containerImage{        
+        width: 74%;
+    }
+    .containerLogIn{
+        width: 23%;
+        margin-right: 2% ; 
+    }
+}
+
+@media(max-width:1400px){
+    #containerImage{        
+        width: 72%;
+    }
+    .containerLogIn{
+        width: 25%;
+        margin-right: 2% ;
+    }
+}
+
+@media(max-width:950px){
+    .homePage{
+        flex-direction: column;
+        align-items: center;
+        font-size: 16px;
+        padding-bottom: 12%;
+        font-size: 14px;
+    }
+    #containerImage{
+        background: url(../imagenes/glamping-background.jpg);        
+        width: 100%;
+        height: 55%;
+        background-repeat: no-repeat;
+    }
+    #textKallpa{
+        left: 35%;
+        width: 60%;
+        font-size: 18px;   
+    }
+    .containerLogIn{
+        width: 90%;
+        height: 47%;
+        padding-top: 1%;
+        padding-bottom: 2%;  
+    }
+   .containerLogIn  span{
+        text-align: center;
+        margin-top: 2%;
+        font-size: 17px;  
+        margin-left: 0;
+        width: 100%;
+    }
+    .containerFormLogUp{
+        margin-top: 0.1%;
+        margin-bottom: 0;
+    }  
+    .label{
+        padding-bottom: 8px; 
+    }
+    .containerForm{
+        margin-bottom: 15px;
+        width: 70%;
+    }
+    input{
+        height: 28px;
+    }
+    .buttonAndLink{
+        display: flex;
+        justify-content: space-around;
+        align-items: baseline;
+        height: 20%;
+    }
+    #spanLogUp{
+        margin-top:0;
+    }
+    .label{
+        padding-bottom: 5px;
+    }
+    #alreadyRegistry{
+        margin-left: 15%;
+        padding-bottom: 0;
+    }
+    #dont-registry{
+        margin-left: 15%;
+        padding-bottom: 0;
+    }
+
+}
+@media(max-width:800px){
+    .homePage{
+        padding-bottom: 18%;
+    }
+    #containerImage{      
+        width: 100%;
+        height: 45%;
+    }
+    #textKallpa{
+        left: 18%;
+        width: 70%;
+        font-size: 16px;   
+    }
+    .containerLogIn{
+        padding-top: 0px;
+        height: 45%;    
+    }
+   
+}
+@media(max-width:600px){
+    .homePage{
+        padding-bottom: 25%;
+        font-size:12px;
+    }
+}
+@media(max-width:550px){
+    .homePage{
+        padding-bottom: 30%;
+    }
+
+}
+
+
+
+
