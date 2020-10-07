@@ -12,7 +12,6 @@
 });*/
 
 jest.mock('../src/functionsFirebase.js', () => ({
-
   upDatePosts: jest.fn(),
   deletePost: jest.fn(),
 
@@ -20,16 +19,17 @@ jest.mock('../src/functionsFirebase.js', () => ({
 
 global.doc = {
   id:'1234abcd'
-}
+};
+
 global.dataPostid = doc.id;
 global.dataPost = {
   userLikes:[],
   counterLikes: 0,
   userId: 'hjk2530lm',
-}
+};
 
 import { publicationsPage, userOptions, printPosts, deleteMyPost } from '../src/Views/publications.js';
-import {onGetPosts, upDatePosts, deletePost, saveUser, getUsers, savePost} from '../src/functionsFirebase.js'
+//import {onGetPosts, upDatePosts, deletePost, saveUser, getUsers, savePost} from '../src/functionsFirebase.js'
 
 describe('publicationsPage', () => {
   it('debería ser una función', () => {
@@ -56,13 +56,13 @@ describe('publicationsPage', () => {
     //expect(btnDelete.tagName).toBe('BUTTON');
     //btnDelete.dispatchEvent(new Event('click'));
   });
-
 });
 
 describe('userOptions', () => {
   it('debería ser una función', () => {
     expect(typeof userOptions).toBe('function');
   });
+
   it('debería retornar un string vacio para userId mky8751pq ', () => {
     expect(userOptions(dataPost)).toEqual("");
   });

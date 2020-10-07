@@ -1,12 +1,10 @@
-
 import {footer} from './footer.js';
 import {header} from './headerViews.js';
 import {deletePost,onGetPosts,getPosts,upDatePosts,userId} from '../functionsFirebase.js'; 
 
 
-// Operador Ternario: antes del signo pregunta se coloca la condición, luego del signo pregunta lo que va a retornar si se cumple la condición
+//Operador Ternario: antes del signo pregunta se coloca la condición, luego del signo pregunta lo que va a retornar si se cumple la condición
 //después de los dos puntos lo que retorna si no se cumple la condición.
-
 export function userOptions(dataPost) {
     return userId !== dataPost.userId ? '':
     `<button type="submit" class = "button btnDelete" data-id = ${dataPost.id}>Borrar</button>

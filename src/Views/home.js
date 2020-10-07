@@ -1,4 +1,3 @@
-import { router } from '../FunctionRouter/routers.js';
 import{footer} from './footer.js';
 import {saveUser, getUsers} from '../functionsFirebase.js'
 
@@ -65,7 +64,6 @@ export const createWellcomePage = () =>{
     newDiv.innerHTML = wellcome;
 
     // Loguear usuario
-
     const formLogin = newDiv.querySelector("#formLogin");
 
     formLogin.addEventListener("submit", (e) => {
@@ -75,7 +73,6 @@ export const createWellcomePage = () =>{
         const dontRegistry = newDiv.querySelector("#dont-registry");
 
         //función para loguerar usuario con correo y contraseña
-        
         auth.signInWithEmailAndPassword(emailLogin, passwordLogin)
         .then(userCredential =>  { 
         //se invoca getUsers para identificar sesión de usuario abierta, esta función getUsers
@@ -94,8 +91,7 @@ export const createWellcomePage = () =>{
         })
     });
 
-//Registrar usuario    
-    
+    //Registrar usuario    
     const formRegistry = newDiv.querySelector("#formRegistry");
 
     formRegistry.addEventListener("submit", (e) => {
@@ -107,13 +103,12 @@ export const createWellcomePage = () =>{
 
 
         //función para crear usuario con correo y contraseña
-
        auth.createUserWithEmailAndPassword(emailRegistry, passwordRegistry)
         .then((userCredential) => { 
             userCredential.user.updateProfile({
                 displayName: userName.value,            
-              })              
-              .then(() => {               
+            })              
+            .then(() => {               
                 window.location.href ='#/publicaciones';
                 getUsers();
             })                 
@@ -122,8 +117,7 @@ export const createWellcomePage = () =>{
             alreadyRegistry.innerHTML = "Correo ya registrado";
         })
 
-        // Crear colección de usuarios y documentos correspondiente a esta collección(cada usuario)    
-        
+        //Crear colección de usuarios y documentos correspondiente a esta collección(cada usuario)    
         saveUser(userName.value);     
     });
            

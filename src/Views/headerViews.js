@@ -1,4 +1,4 @@
-export const header= 
+export const header = 
     `<header class="headerWellcome">
         <div class="containerLogo">
             <img src="./imagenes/kallpaLogo.svg" class="logo">

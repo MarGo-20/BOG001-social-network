@@ -33,7 +33,7 @@ jest.mock('../src/Views/publications.js', () => ({
   addOrRemoveLike: jest.fn(),
 }));
 
-import {upDatePosts} from '../src/functionsFirebase.js'
+//import {upDatePosts} from '../src/functionsFirebase.js'
 import {addOrRemoveLike} from '../src/Views/publications.js';
 
 /*global.localStorage = {
@@ -46,11 +46,10 @@ import {addOrRemoveLike} from '../src/Views/publications.js';
 }*/
 
 global.dataPost = {
- 
   userLikes:[],
   counterLikes: 0,
-  
 }
+
 console.log(dataPost);
 console.log(typeof dataPost);
 
@@ -80,8 +79,6 @@ describe('addOrRemoveLike', () => {
         addOrRemoveLike(eventMock);
         console.log(dataPost);
         //console.log(firebase.firestore().collection('posts').doc(id).get());
-
     })
-
 })
 

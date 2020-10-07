@@ -1,4 +1,3 @@
-
 .navPages {
     display: flex;
     list-style: none;
@@ -22,6 +21,7 @@
     background-size:100% 700px;
     width: 100%;
 }
+
 #post-container{
     display: flex;
     flex-direction: row;
@@ -31,6 +31,7 @@
     padding-top: 5% ;
     padding-bottom: 5% ; 
 }
+
 .containerPostFinal{
     display: flex;
     flex-wrap: wrap;
@@ -44,9 +45,11 @@
     background: #79CDB2;
     box-shadow: 10px 10px 4px rgba(64, 107, 94, 0.87);
 }
+
 .userContainer{
     padding-top: 10px;
 }
+
 .containerCommentary{
     display: flex;
     justify-content: center;
@@ -73,10 +76,12 @@
     width: 40px;
     color: green;
 }
+
 .myBtnPost{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
 .containerButton2{
     padding-bottom: 15px;
 }
@@ -103,7 +108,6 @@
 }
 
 @media(max-width:1000px){
-
     .containerPostFinal{
         font-size: 15px;
     }
@@ -120,7 +124,6 @@
 }
 
 @media (max-width:500px){
-
     .containerPostFinal{
         width: 80%;
     }
@@ -128,7 +131,6 @@
         width: 90%; 
         height: 200px;
     }
-
 }
 
 
